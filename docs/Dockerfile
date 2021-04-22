@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-ARG HUGO_VERSION=0.69.0
+ARG HUGO_VERSION=0.69.2
 
 RUN mkdir /hugo && \
   cd /hugo && \
@@ -9,4 +9,4 @@ RUN mkdir /hugo && \
   apt-get install ./hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
 WORKDIR /docs
 COPY . .
-ENTRYPOINT hugo server --enableGitInfo=false -v --debug --minify --bind 0.0.0.0 
+ENTRYPOINT hugo server --enableGitInfo=false -v --debug --minify --bind 0.0.0.0

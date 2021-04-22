@@ -1,19 +1,22 @@
 ---
-title: Lunch with the Devs
+title: Lunch with the OSCAL Developers
 description: The NIST OSCAL team hosts a bi-weekly web conference to discuss OSCAL work.
 layout: devlunch
 aliases:
 - /contribute/devlunch/
-sidenav:
-  toc:
-    headingselectors: "h3,h4"
+toc:
+  enabled: true
+  headingselectors: "h3,h4"
+weight: 10
 ---
 
-{{% usa-intro %}}To increase communication with the OSCAL community, the NIST OSCAL team is hosting a one-hour teleconference every two weeks starting on Thursday, December 5th 2019 @ noon EST.{{% /usa-intro %}}
+{{% usa-intro %}}To increase communication with the OSCAL community, the NIST OSCAL team is hosting a one-hour teleconference to discuss OSCAL development.{{% /usa-intro %}}
 
 Note: (1/10/2020) The Bluejeans info below has changed.
 
-{{% usa-tag %}}Meeting Link{{% /usa-tag %}} https://bluejeans.com/187858571/0183 ([ICS file](../lunch-with-the-devs.ics))
+{{% usa-tag %}}Day and Time{{% /usa-tag %}} Every other Thursday at noon EST/EDT
+
+{{% usa-tag %}}Meeting Link{{% /usa-tag %}} https://bluejeans.com/187858571/0183 ([ICS file](lunch-with-the-devs.ics))
 
 {{% usa-tag %}}Meeting Details{{% /usa-tag %}}
 
@@ -30,10 +33,10 @@ Participant Passcode: 0183
 
 {{% usa-tag %}}Format{{% /usa-tag %}} Question and Answer, Discussion
 
-Each teleconference will cover the following:
+After a brief introduction to the meeting, each teleconference will cover the following:
 
 - The OSCAL team will provide a *short summary* of **what we are currently working on**. (5 to 10 minutes)
 - The OSCAL team will **discuss issues** that we need **community feedback** on or **help with**, if we have any for that week. (0 to 10 minutes)
-- The remainder of the call will be **available to answer questions on OSCAL**. This is an opportunity **ask clarifying questions**, to **discuss features** you would like to see in OSCAL, and to **report potential defects** you have found. We specifically want to hear from community members that are authoring OSCAL content and creating OSCAL tools. ***Your [feedback](/contribute/contact/) is important to us***, which is the primary reason we are hosting these teleconferences.
+- The remainder of the call will be **available to answer questions on OSCAL**. This is an opportunity **ask clarifying questions**, to **discuss features** you would like to see in OSCAL, and to **report potential defects** you have found. We specifically want to hear from community members that are authoring OSCAL content and creating OSCAL tools. ***Your [feedback](/contact/) is important to us***, which is the primary reason we are hosting these teleconferences.
 
 We look forward to talking with you about OSCAL.

@@ -1,14 +1,17 @@
 ---
-title: "Catalog XML Schema Reference"
-heading: "OSCAL Control Catalog Model XML Schema Reference"
+title: "OSCAL Catalog Model XML Format Reference"
+heading: "OSCAL Control Catalog Model XML Format Reference"
 description: Element-level definitions of the OSCAL Catalog model XML format.
 aliases:
   - /docs/schemas/oscal-catalog-xml/
 weight: 60
 sidenav:
-  title: XML Schema Reference
-  toc:
-    headingselectors: "h2.assembly-header"
+  title: XML Format Reference
+toc:
+  enabled: true
+  headingselectors: "h2.toc1, h3.toc2"
+aliases:
+  - /documentation/schema/catalog/xml-schema/
 ---
 
 {{<partial "generated/oscal-catalog-xml-schema.html" >}}

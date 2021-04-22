@@ -1,14 +1,17 @@
 ---
-title: "System Security Plan XML Schema Reference"
-heading: "OSCAL System Security Plan (SSP) Model XML Schema Reference"
+title: "OSCAL System Security Plan Model XML Format Reference"
+heading: "OSCAL System Security Plan (SSP) Model XML Format Reference"
 description: Element-level definitions of the OSCAL System Security Plan model XML format.
 aliases:
   - /docs/schemas/oscal-ssp-xml/
 weight: 60
 sidenav:
-  title: XML Schema Reference
-  toc:
-    headingselectors: "h2.assembly-header"
+  title: XML Format Reference
+toc:
+  enabled: true
+  headingselectors: "h2.toc1, h3.toc2"
+aliases:
+  - /documentation/schema/ssp/xml-schema/
 ---
 
 {{<partial "generated/oscal-ssp-xml-schema.html" >}}
